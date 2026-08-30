@@ -1,0 +1,7 @@
+dictionary took 0.348 seconds while hash took 0.958 seconds to proccess the large txt file making dictionary faster
+
+i think the built in dictionary is more optimized for performance and is meant to handle operations with O(1) time complexity whereas being manual inputs the hash maps 
+have a chance for more collisions and thus is slower
+
+python dictionary is written in C whihc is efficient and faster than most user defined implementations. Python functins have also been tested and heavily used over .
+the years and in constatnly updated
